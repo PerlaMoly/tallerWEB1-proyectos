@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\java\proyectos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1599482183.index
+\proyecto-limpio-spring-master\src\main\java
+C:\java\proyectos\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2021829584.index
+\proyecto-limpio-spring\src\main\java
