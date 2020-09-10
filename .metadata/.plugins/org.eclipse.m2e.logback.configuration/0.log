@@ -816,3 +816,253 @@ org.apache.maven.project.ProjectBuildingException: Some problems were encountere
 2020-09-08 22:42:50,525 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
 2020-09-08 22:42:50,526 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-09-08 22:42:50,528 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 20:52:06,475 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-09 20:52:19,958 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-09-09 20:52:20,152 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-09-09 20:52:25,625 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 20:52:25,658 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 20:52:25,679 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 20:52:25,777 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 20:52:25,791 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 20:52:25,809 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-09-09 20:53:51,142 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-09 20:54:01,777 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-09-09 20:54:01,841 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-09-09 20:54:02,845 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 20:54:02,916 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 20:54:02,953 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 20:54:03,085 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 20:54:03,099 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 20:54:03,128 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-09-09 21:03:38,640 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:03:38,662 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:03:38,721 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 21:03:38,780 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:03:38,807 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:03:38,835 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 21:05:35,419 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:05:35,430 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:05:35,441 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 21:05:35,455 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:05:35,467 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:05:35,476 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 21:08:39,408 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:08:39,424 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:08:39,444 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 21:08:39,478 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:08:39,493 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:08:39,511 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 21:09:01,964 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:09:01,978 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:09:01,997 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 21:09:02,019 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:09:02,032 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:09:02,051 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 21:09:36,415 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:09:36,469 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:09:36,525 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 21:09:36,549 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:09:36,565 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:09:36,583 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 21:12:47,570 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:12:47,580 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:12:47,590 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 21:12:47,600 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:12:47,609 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:12:47,618 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 21:17:46,931 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:17:46,948 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:17:46,963 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 21:17:46,967 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:17:46,975 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:17:46,988 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 21:17:51,538 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:17:51,556 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:17:51,571 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 21:17:51,573 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:17:51,587 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:17:51,595 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 21:23:04,388 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:23:04,397 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:23:04,409 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 21:23:04,423 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:23:04,431 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:23:04,441 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 21:24:38,790 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:24:38,798 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:24:38,808 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 21:24:38,827 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:24:38,834 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:24:38,842 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 21:25:31,846 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:25:31,862 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:25:31,873 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 21:25:31,891 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:25:31,898 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:25:31,906 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 21:26:32,541 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:26:32,550 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:26:32,560 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 21:26:32,577 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:26:32,585 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:26:32,594 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 21:28:05,786 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:28:05,841 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:28:05,857 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 21:28:05,929 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 21:28:05,944 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 21:28:05,967 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:01:55,179 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:01:55,215 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:01:55,232 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 22:01:55,278 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:01:55,291 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:01:55,306 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:02:38,397 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:02:38,407 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:02:38,419 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 22:02:38,435 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:02:38,445 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:02:38,453 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:03:13,452 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:03:13,466 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:03:13,478 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 22:03:13,498 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:03:13,511 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:03:13,524 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:03:36,803 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:03:36,816 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:03:36,829 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:03:36,831 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:03:36,844 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:03:36,858 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:03:50,799 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:03:50,829 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:03:50,844 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:03:50,846 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:03:50,866 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:03:50,876 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:06:33,376 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:06:33,439 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:06:33,452 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:06:33,454 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:06:33,466 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:06:33,484 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:08:30,502 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:08:30,526 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:08:30,541 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 22:08:30,588 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:08:30,605 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:08:30,622 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:15:04,795 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:15:04,815 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:15:04,826 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 22:15:04,854 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:15:04,863 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:15:04,874 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:19:16,628 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:19:16,643 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:19:16,656 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 22:19:16,681 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:19:16,704 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:19:16,719 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:19:29,061 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:19:29,080 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:19:29,088 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 22:19:29,098 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:19:29,104 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:19:29,111 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:26:56,319 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:26:56,327 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:26:56,336 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 22:26:56,353 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:26:56,360 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:26:56,367 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:27:37,070 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:27:37,078 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:27:37,087 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 22:27:37,101 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:27:37,112 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:27:37,119 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:28:00,961 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:28:00,968 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:28:00,975 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 22:28:00,985 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:28:00,993 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:28:01,000 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:28:25,189 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:28:25,205 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:28:25,218 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 22:28:25,233 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:28:25,245 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:28:25,261 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:28:30,277 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:28:30,284 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:28:30,291 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 22:28:30,300 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:28:30,307 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:28:30,314 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:29:03,596 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:29:03,622 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:29:03,642 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:29:03,647 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:29:03,657 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:29:03,683 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:30:10,390 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:30:10,399 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:30:10,408 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 22:30:10,420 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:30:10,429 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:30:10,437 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:33:15,988 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:33:16,019 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:33:16,033 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:33:16,035 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:33:16,049 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:33:16,062 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:37:41,435 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:37:41,461 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:37:41,476 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:37:41,478 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:37:41,527 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:37:41,540 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:37:49,212 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:37:49,234 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:37:49,246 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:37:49,248 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:37:49,262 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:37:49,270 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:49:34,639 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:49:34,649 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:49:34,662 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 22:49:34,706 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:49:34,718 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:49:34,731 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:49:54,079 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:49:54,089 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:49:54,098 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 22:49:54,108 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:49:54,116 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:49:54,124 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:50:17,460 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:50:17,469 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:50:17,479 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-09-09 22:50:17,498 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:50:17,505 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:50:17,513 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:50:34,726 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:50:34,740 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:50:34,750 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:50:34,752 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:50:34,762 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:50:34,771 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:50:44,453 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:50:44,472 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:50:44,484 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:50:44,486 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:50:44,495 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:50:44,502 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:52:02,456 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2020-09-09 22:52:02,469 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-09 22:52:02,479 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-09 22:52:02,480 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
